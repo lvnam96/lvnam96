@@ -1,10 +1,10 @@
-<h1 align="center">Hi there, I'm Nam 👋</h1>
+<h1 align="center">Hi there, I'm Nam <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Passionate+web+developer;Problem+Solver+%7C+Tech+Explorer;Web+Animation+Enthusiast" alt="Typing SVG" />
 </p>
 
-### 🧑‍💻 About Me
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="21" height="21" /> About Me
 
 - 🎓 I'm a Frontend Web Developer with a background in Information Technology.
 - 🛠️ I love building **clean**, **scalable**, and **performant** web apps.
@@ -42,7 +42,7 @@
 
 
 
-### 🚀 Notable Projects
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="21" height="21" /> Notable Projects
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
@@ -52,7 +52,7 @@
 
 
 
-### 🗣️ Let's Connect!
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand.png" alt="Call Me Hand" width="21" height="21" /> Let's Connect!
 
 If you’re hiring, collaborating, or just want to say hi — don’t hesitate to reach out. I'm always open to exciting opportunities and conversations.
 
