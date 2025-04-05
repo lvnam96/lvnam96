@@ -1,16 +1,59 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Nam 👋</h1>
 
-<!--
-**lvnam96/lvnam96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Passionate+web+developer;Problem+Solver+%7C+Tech+Explorer;Web+Animation+Enthusiast" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I'm a Frontend Web Developer with a background in Information Technology.
+- 🛠️ I love building **clean**, **scalable**, and **performant** web apps.
+- 🌱 Currently exploring: System Design, Cloud Computing, AI.
+- 🧠 Always learning new things — currently diving into **large-scale system design**.
+- 📚 I enjoy learning from mistakes and sharing experience about building things.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,ts,go,postgres" alt="Languages" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,express,remix,tailwind,bootstrap,sass,jest,vitest,svelte" alt="Frameworks" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,githubactions,docker,sentry,figma,pnpm,vite,webpack" alt="Tools" />
+</p>
+
+<!-- <details>
+  <summary><h5>GitHub Stats</h5></summary>
+
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=lvnam96&theme=radical" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=lvnam96&show_icons=true&theme=radical&count_private=true" /> 
+  </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvnam96&layout=compact&theme=radical" />
+  </p>
+</details> -->
+
+
+
+### 🚀 Notable Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [**Diijam - Music-streaming PWA**](https://play.diijam.vn) | Progressive web app that optimized fo smooth music streaming | NextJS, hls.js, Docker, GCP, Microservices |
+| [**Homemade-food multi-tenants store**](https://github.com/lvnam96/homemade-food-app) | Something I am building to learn system design and end-to-end delivery of a software product | Typescript, RemixJS, PostgreSQL, Docker Compose, GitHub Actions, Redis, Serverless |
+| [**hls.js**](https://github.com/video-dev/hls.js/pull/5494) | Quickly scan through codebase to fix a typing issue when extending default loaders | Typescript |
+
+
+
+### 🗣️ Let's Connect!
+
+If you’re hiring, collaborating, or just want to say hi — don’t hesitate to reach out. I'm always open to exciting opportunities and conversations.
+
+<p align="center">
+  <a href="mailto:hello@lvnam.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/lvnam96"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <!-- <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a> -->
+</p>
+
+<!-- <img src="https://komarev.com/ghpvc/?username=lvnam96&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views counter" /> -->
