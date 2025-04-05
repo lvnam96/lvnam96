@@ -19,7 +19,13 @@
   <br/>
   <img src="https://skillicons.dev/icons?i=git,githubactions,docker,sentry,figma,pnpm,vite,webpack" alt="Tools" />
 </p>
-
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/lvnam96/lvnam96/output-3d-contrib/profile-night-green.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lvnam96/lvnam96/output-3d-contrib/profile-season.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/lvnam96/lvnam96/output-3d-contrib/profile-night-green.svg" />
+	</picture>
+</p>
 <!-- <details>
   <summary><h5>GitHub Stats</h5></summary>
 
