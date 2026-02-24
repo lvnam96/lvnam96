@@ -13,13 +13,13 @@
 - 📚 I enjoy learning from mistakes and sharing experience about building things.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,ts,go,postgres" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,ts,go,postgres,mongodb" alt="Languages" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,express,remix,tailwind,bootstrap,sass,jest,vitest,svelte" alt="Frameworks" />
+  <img src="https://i.icoziv.workers.dev/icons?i=svelte,astro,remix,angularjs,lit,vitest,hono,nestjs" alt="Frameworks" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=git,githubactions,docker,sentry,figma,pnpm,vite,webpack" alt="Tools" />
+  <img src="https://i.icoziv.workers.dev/icons?i=git,githubactions,docker,sentry,pnpm,vite,webpack,firebase" alt="Tools" />
 </p>
-<p align="center" >
+<p align="center">
 	<picture>
 	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/lvnam96/lvnam96/output-3d-contrib/profile-night-green.svg" />
 	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lvnam96/lvnam96/output-3d-contrib/profile-season.svg" />
@@ -28,7 +28,6 @@
 </p>
 <!-- <details>
   <summary><h5>GitHub Stats</h5></summary>
-
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=lvnam96&theme=radical" />
   </p>
